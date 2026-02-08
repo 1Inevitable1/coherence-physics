@@ -1,7 +1,9 @@
 COHERENCE PHYSICS: A FIELD LAW OF RECURSION AND PERSISTENCE
 
 Author: Kathryn Sughero
+
 Steward: Sughero Systems
+
 Implementation Layer: CHURPRIMO™ (Coherence Governance Engine for Silicon Systems)
 Date: February 8, 2026
 Version: 1.0
