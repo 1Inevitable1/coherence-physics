@@ -1,3 +1,5 @@
+Public origin timestamp: February 18, 2026 — Git commit record establishes authorship and architectural origin.
+
 COHERENCE PHYSICS: A FIELD LAW OF RECURSION AND PERSISTENCE
 
 Author: Kathryn Sughero
